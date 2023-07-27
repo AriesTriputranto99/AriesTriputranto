@@ -5,6 +5,7 @@
 - 📫 How to reach me https://www.facebook.com/AriesTriputranto
 https://www.instagram.com/AriesTriputranto8
 https://m.youtube.com
+https://www.rssboard.org/rss-validator/check.cgi?
 https://AriesTriputranto.blogspot.com
 https://translatewiki.net/w/api.php?action=feedc&format=json
 https://github.com/googleapis/google-auth-library-nodejs
