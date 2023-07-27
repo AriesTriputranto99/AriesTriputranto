@@ -6,6 +6,9 @@
 https://www.instagram.com/AriesTriputranto8
 https://m.youtube.com
 https://AriesTriputranto.blogspot.com
+https://translatewiki.net/w/api.php?action=feedc&format=json
+https://github.com/googleapis/google-auth-library-nodejs
+https://docs.nodesource.com/nsolid/4.9/docs#federatedauth
 <!---
 AriesTriputranto/github.com/Docs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
