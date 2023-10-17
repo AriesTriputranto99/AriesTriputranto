@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html 5 UTF 8 to meta translate request & public network
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.facebook.com/AriesTriputranto
-https://www.instagram.com/AriesTriputranto8
+https://www.instagram.com/AriesTriputranto100
 https://m.youtube.com
 https://AriesTriputranto.blogspot.com
 <!---
