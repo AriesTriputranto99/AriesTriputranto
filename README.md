@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
   "penegakan": "null",
   "kondisi": {
     "nama_ref": {
-      "mengecualikan": [**],
+      "mengecualikan": [sha1],
       "termasuk": [
         "ref/tag/google5f8d5f27414b0942.html"
       [Bahasa Indonesia]
@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
     {
       "tipe": "penerapan_yang_diperlukan",
       "parameter": {
-        "lingkungan_penyebaran_yang_diperlukan": [*]
+        "lingkungan_penyebaran_yang_diperlukan": [true]
       }
     Bahasa Indonesia:
     {
@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
       "parameter": {
         "kebijakan_pemeriksaan_status_yang_diperlukan_ketat": benar,
         "jangan_berlakukan_pada_pembuatan": salah,
-        "pemeriksaan_status_yang_diperlukan": [*]
+        "pemeriksaan_status_yang_diperlukan": [true]
       }
     }
   ],
@@ -63,3 +63,6 @@ You can click the Preview link to take a look at your changes.
     }
   [Bahasa Indonesia]
 }
+
+
+### [Document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
