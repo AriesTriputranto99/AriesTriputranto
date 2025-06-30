@@ -1,3 +1,4 @@
+![Screenshot_20250630-113021~2](https://github.com/user-attachments/assets/b3f9e89d-15a3-4a4e-afcc-b546e2ddb0af)
 - 👋 Hi, I’m AriesTriputranto
 - 👀 I’m interested in to public network &Translate request
 - 🌱 I’m currently learning html 5 UTF 8 to meta translate request & public network
@@ -11,6 +12,12 @@
 - [translate wiki](https://translatewiki.net/w/api.php?action=feedc&format=json)
 _ [google Apis](https://github.com/googleapis/google-auth-library-nodejs)
 - [Docs node source](https://docs.nodesource.com/nsolid/4.9/docs#federatedauth)
+
+{ 
+  "Hello world"
+   "AriesTriputranto google.git"
+}
+
 ### <!---
 AriesTriputranto/github.com/Docs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -20,17 +27,18 @@ You can click the Preview link to take a look at your changes.
   {
   "id": 2739947,
   "nama": "Penampung",
-  "target": "tanda",
+  "target": "sinyal",
   "tipe_sumber": "Repositori",
   "sumber": "AriesTriputranto99/AriesTriputranto",
   "penegakan": "null",
-  "kondisi": {
+  "kondisi": string {
     "nama_ref": {
-      "mengecualikan": [**],
+      "mengecualikan": [false],
       "termasuk": [
         "ref/tag/google5f8d5f27414b0942.html"
-      [Bahasa Indonesia]
-    }
+      Bahasa Indonesia]
+   }
+  }
   Bahasa Indonesia:
   "aturan": [
     {
